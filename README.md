@@ -19,4 +19,21 @@ and searching employee, removing an existing employee.
      - Jenkins
      - Log4j
      - Extent Report
+
+Key Responsibilities:
+
+Built automation scripts using Selenium WebDriver with Java/Python.
+
+Used TestNG/JUnit for test case organization and assertions.
+
+Implemented Page Object Model (POM) for maintainable and scalable code.
+
+Managed test data and environment configurations.
+
+Generated detailed test reports using Extent Reports or Allure.
+
+Integrated tests with Maven/Gradle and version-controlled using Git.
+
+Tools & Technologies:
+Selenium WebDriver, Java/Python, TestNG/JUnit, Maven/Gradle, Git, OrangeHRM, Page Object Model, ChromeDriver, Extent Reports
   
